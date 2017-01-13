@@ -1,0 +1,235 @@
+html
+{
+font-family: "helvetica neue", helvetica,Arial,sans-serif;
+display: block;
+font-size: 1.2em;
+
+}
+*
+{
+  box-sizing: border-box;
+}
+
+head
+{
+display: none;
+}
+meta
+{
+  display: none;
+}
+title {
+  display: none;
+}
+link {
+  display: none;
+}
+body {
+  display: block;
+  margin: 0;
+   margin-top: 0px;
+   margin-right: 0px;
+   margin-bottom: 0px;
+   margin-left: 0px;
+}
+div
+{
+  display: block;
+}
+header {
+  background-color: #06D6A0;
+  overflow: hidden;
+  height: 60px;
+  padding: 0 20px;
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-bottom: 0px;
+  padding-left: 20px;
+  text-align: center;
+}
+.logo {
+  color: white;
+  float: left;
+  line-height: 60px;
+  font-size: 18px;
+  margin:0;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin border-bottom: 0px;
+  margin-left: 0px;
+}
+.navbar
+ {
+  float: right;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+ }
+ul{
+  list-style-type: none;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+ }
+h1 {
+    display: block;
+    -webkit-margin-before: 0.67em;
+    -webkit-margin-after: 0.67em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+ }
+.container
+ {
+  max-width: 900px;
+  margin: auto;
+   margin-top: auto;
+   margin-right: auto;
+   margin-bottom: auto;
+   margin-left: auto;
+ }
+.hero
+ {
+  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  background-color: #26547c;
+  color: white;
+ }
+.hero-image
+ {
+  float:left;
+  width: 60%;
+ }
+img
+ {
+  max-width: 100%;
+ }
+.hero-content
+ {
+  float: left;
+  width: 40%;
+  font-size: 25px;
+  text-align: center;
+ }
+.hero-content > h2 {
+  border-top-color: initial;
+  border-top-style: initial;
+  border-top-width: 0px;
+  border-right-color: initial;
+  border-right-style: initial;
+  border-right-width: 0px;
+  border-bottom-color: initial;
+  border-bottom-style: initial;
+  border-bottom-width: 0px;
+  border-left-color: initial;
+  border-left-style: initial;
+  border-left-width: 0px;
+  border-image-source: initial;
+  border-image-slice: initial;
+  border-image-width: initial;
+  border-image-outset: initial;
+  border-image-repeat: initial;
+  display: inline-block;
+  padding-bottom: 5px;
+ }
+h2
+ {
+    font-size: 1.5em;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+ }
+.call-to-action
+ {
+  background-color: #ffd166;
+  color: white;
+ }
+.call-to-action
+ {
+    padding: 30px 20px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    background-color: #ffd166;
+ }
+h3
+ {
+    display: block;
+    font-size: 1.17em;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+ }
+p
+{
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+.products
+{
+  background-color: #f2f2f2;
+  padding: 30px 20px;
+   padding-top: 30px;
+   padding-right: 20px;
+   padding-bottom: 30px;
+   padding-left: 20px;
+}
+.about
+{
+  background-color: #26547c;
+  color: white;
+  padding: 30px 20px;
+  padding-top: 30px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  padding-left: 20px;
+ }
+.team
+ {
+  overflow: hidden;;
+    overflow-x: hidden;
+    overflow-y: hidden;
+ }
+.team-fun
+ {
+    float: left;
+    width: 33.33333%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #EF476F;
+  }
+.team-values
+  {
+    float: center;
+    width: 33s.33333%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #EF476F;
+  }
+.team-meow
+  {
+    float: right;
+    width: 33.33333%;
+    text-transform: uppercase;
+    text-align: center;
+    color: #EF476F;}
+
+  footer
+  {
+    background-color: #06D6A0;
+    height: 50px;
+    line-height: 50px;
+    text-align: right;
+    padding: 0 20px;
+}
